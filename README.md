@@ -5,4 +5,4 @@ The language used is Python. For numerical computation, no other modules that 'm
 
 The project does not aim to be able to read any SVG file. As there are many variations of valid formats used in SVG files, it is difficult to cover all the possible cases. This program does work with the portrait of Fourier himself. Source: https://www.dropbox.com/s/tnim0el257lfzom/Biocinematics_Fourier_Vector.svg?dl=0
 
-There is still a bunch of improvements that can be done. Developing the file reader function, improving the performance by utilising optimised libraries, adding user interface and allow them to interact with the program
+There is still a bunch of improvements that can be done. Developing the file reader function, improving the performance by utilising optimised libraries, adding user interface and interaction
